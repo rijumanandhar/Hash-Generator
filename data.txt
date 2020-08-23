@@ -1,0 +1,5 @@
+0 E:\TBC\workspace\hash\check.txt false 00000000089DEAD2
+1 E:\TBC\workspace\hash\check.txt false 000000000027D9B3
+0 E:\TBC\workspace\hash\src\hash false 0000C48494FE5000
+1 E:\TBC\workspace\hash\src\hash false 000003714E887B00
+2 E:\TBC\workspace\hash\check.txt false This is algorithm three. folder hash
